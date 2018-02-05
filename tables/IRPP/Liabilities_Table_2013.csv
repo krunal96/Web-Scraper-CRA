@@ -1,0 +1,6 @@
+,Description of liabilities ,Line number,Amount,Org,Year
+0,Accounts payable and accrued liabilities,4300,227762,IRPP,2013
+1,Deferred revenue,4310,53437,IRPP,2013
+2,Amounts owing to non-arm's length persons,4320,,IRPP,2013
+3,Other liabilities,4330,98139,IRPP,2013
+4,Total liabilities (add lines 4300 to 4330),4350,379338,IRPP,2013
